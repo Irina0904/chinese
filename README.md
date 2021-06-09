@@ -1,2 +1,2 @@
-# fourier
-Fourier transform project
+# Chinese
+A website for learning chinese
